@@ -1,0 +1,19 @@
+Explizit
+
+Ich habe eine Frage zum NeuroHome LumiNet: Was für eine Fassung hat das System?
+Wie viel kostet das ThermoSense Starter-Kit und was beinhaltet dieses?
+Was ist die aktuellste Version der HiveApp?
+
+
+Implizit
+
+Ich brauche Hilfe mit meinem ThermoSense Smart Hub. Der geht nicht mehr an.
+Wie kann ich am besten die Seriennummern meiner Geräte herausfinden?
+Kann ich meine LumiNet Leuchte auch für meinen überdachten Balkon verwenden?
+
+
+Komplex
+
+Meine LumiNet-Leuchte ist leider genau nach 2 Jahren und 1 Woche defekt. Das ist ärgerlich. Habe ich trotzdem noch einen Garantieanspruch?
+Mein LumiNet Starterkit hat eine Seriennummer, die mit "LN-" beginnt. Wo kann ich diese Seriennummer finden, und wie trage ich sie in der Hive App ein, 
+um die Energieverbrauchsanalyse zu nutzen?
