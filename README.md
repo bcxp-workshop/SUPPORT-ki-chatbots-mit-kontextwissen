@@ -4,6 +4,8 @@ In diesem Workshop erkunden wir, wie ein KI-Chatbot im Kundensupport durch inter
 
 Im Rahmen dessen testen wir direkt am Beispiel der fiktiven Firma NeuroHome, wie sich die Antwortqualität des Chatbots verändert, sobald diesem Kontextinformationen bereitgestellt werden. Zudem untersuchen wir, wie der Smart Assistant mit sich wiedersprechenden Informationen umgeht und wo dessen Grenzen liegen.
 
+Unser Workshop-LibreChat fungiert hierbei als Chat-Umgebung für das Prompting mit dem vorbereiteten Smart Assistant und ist hier zu finden: https://workshop.bcxp.de
+
 ---
 
 ### Lernziele
