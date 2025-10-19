@@ -25,9 +25,9 @@ Starte einen Chat mit dem Agenten **„NeuroHome Smart Assistant“**
 Stelle verschiedene Fragen zu den Produkten von NeuroHome.  
 In der Datei `Beispielfragen.txt` findest du vorbereitete Fragen aus drei Kategorien:
 
-- **Explizit:** z.B. „Was kostet das ThermoSense X4?“  
-- **Implizit:** z.B. „Kann ich das Thermostat auch am Wochenende anders einstellen?“  
-- **Komplex:** z.B. „Wie kann ich einen Wochenplan am ThermoSense X4 erstellen und gleichzeitig Geld sparen?“
+- **Explizit:** z.B. „Wie viel kostet das ThermoSense Starter-Kit und was beinhaltet dieses?“  
+- **Implizit:** z.B. „Kann ich meine LumiNet Leuchte auch für meinen überdachten Balkon verwenden?“  
+- **Komplex:** z.B. „Meine LumiNet-Leuchte ist leider genau nach 2 Jahren und 1 Woche defekt. Das ist ärgerlich. Habe ich trotzdem noch einen Garantieanspruch?“
 
 Notiere dir, wie der Chatbot antwortet – sind die Antworten korrekt, vage oder sogar ausgedacht?
 
