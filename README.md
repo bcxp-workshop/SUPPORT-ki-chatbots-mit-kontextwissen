@@ -1,5 +1,6 @@
 # KI-Chatbots mit Kontextwissen als First-Level Support 
 
+![banner](NeuroHome_Banner.png)
 In diesem Workshop erkunden wir, wie ein KI-Chatbot im Kundensupport durch internes Kontextwissen – wie Produktdatenblätter oder FAQs – präzisere und verlässlichere Antworten gibt.
 
 Im Rahmen dessen testen wir direkt am Beispiel der fiktiven Firma NeuroHome, wie sich die Antwortqualität des Chatbots verändert, sobald diesem Kontextinformationen bereitgestellt werden. Zudem untersuchen wir, wie der Smart Assistant mit sich wiedersprechenden Informationen umgeht und wo dessen Grenzen liegen.
