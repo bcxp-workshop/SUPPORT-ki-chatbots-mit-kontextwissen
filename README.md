@@ -20,8 +20,8 @@ Unser Workshop-LibreChat fungiert hierbei als Chat-Umgebung für das Prompting m
 
 ## 1. Fragen ohne Kontextdaten stellen
 
-Starte einen Chat mit dem Agenten **„NeuroHome Smart Assistant“**  
-(Du findest ihn über die Schaltfläche **„Default (GPT4.1)“** im Kontextmenü unter **„My Agents“**).  
+Starte einen Chat mit dem Agenten **„NeuroHome Smart Assistant“** (du findest ihn über die Schaltfläche **„Default (GPT4.1)“** im Kontextmenü unter **„My Agents“**).  
+
 Stelle verschiedene Fragen zu den Produkten von NeuroHome.  
 In der Datei `Beispielfragen.txt` findest du vorbereitete Fragen aus drei Kategorien:
 
