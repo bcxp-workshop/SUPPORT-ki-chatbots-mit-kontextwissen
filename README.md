@@ -19,7 +19,7 @@ Unser Workshop-LibreChat fungiert hierbei als Chat-Umgebung für das Prompting m
 
 # Aufgabenstellung
 
-## 1. Fragen ohne Kontextdaten stellen
+## 1. Fragen ohne Kontextdaten stellen (5 Minuten)
 
 Starte einen Chat mit dem Agenten **„NeuroHome Smart Assistant“** (du findest ihn über die Schaltfläche **„Default (GPT4.1)“** im Kontextmenü unter **„My Agents“**).  
 
@@ -34,7 +34,7 @@ Notiere dir, wie der Chatbot antwortet – sind die Antworten korrekt, vage oder
 
 ---
 
-## 2. Fragen mit Kontextdaten wiederholen
+## 2. Fragen mit Kontextdaten wiederholen (5-10 Minuten)
 
 Starte nun einen **neuen Chat** – diesmal mit dem Agenten **„NeuroHome Smart Assistant 2.0“**.
 
@@ -50,7 +50,7 @@ Die Antworten sollten nicht mehr halluziniert, sondern belegt sein.
 
 ---
 
-## 3. Kontext mit mehreren Versionen testen
+## 3. Kontext mit mehreren Versionen testen (5-10 Minuten)
 
 Die Workshopleiterin wird während des Workshops ein weiteres Kontextdokument hinzufügen:  
 **`NeuroHome_Produktdatenblatt_20250801`**  
